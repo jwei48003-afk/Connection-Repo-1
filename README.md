@@ -1,2 +1,3 @@
 # Connection-Repo-1
-Repository for GitHub connector testing.
+
+A simple repository used for connection and integration testing across services and GitHub workflows.
